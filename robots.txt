@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahviekeipu.chrisbusse.com/sitemap.xml
